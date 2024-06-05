@@ -1,4 +1,4 @@
-# Exercício de revisão e fixação
+# Exercício de revisão e fixação, Emanuel Santos Almeida
 
 ### 1. O que é mapeamento objeto relacional(ORM)
 
